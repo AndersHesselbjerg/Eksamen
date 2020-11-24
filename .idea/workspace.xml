@@ -1,13 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51bf6f48-2ee6-42ce-a891-4209719e1f8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../18_while_getters" beforeDir="false" afterPath="$PROJECT_DIR$/../18_while_getters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datingapp" beforeDir="false" afterPath="$PROJECT_DIR$/../Datingapp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Miniprojekt3" beforeDir="false" afterPath="$PROJECT_DIR$/../Miniprojekt3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NY HTML" beforeDir="false" afterPath="$PROJECT_DIR$/../NY HTML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoskildeBornehaveNy" beforeDir="false" afterPath="$PROJECT_DIR$/../RoskildeBornehaveNy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StopMadSpild" beforeDir="false" afterPath="$PROJECT_DIR$/../StopMadSpild" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StopMadSpild2" beforeDir="false" afterPath="$PROJECT_DIR$/../StopMadSpild2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StopMadSpild3" beforeDir="false" afterPath="$PROJECT_DIR$/../StopMadSpild3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student" beforeDir="false" afterPath="$PROJECT_DIR$/../Student" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Studentadminstration" beforeDir="false" afterPath="$PROJECT_DIR$/../Studentadminstration" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test1-github" beforeDir="false" afterPath="$PROJECT_DIR$/../Test1-github" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WarmupCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../WarmupCalculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bornehaveprojekt" beforeDir="false" afterPath="$PROJECT_DIR$/../bornehaveprojekt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstyearproject" beforeDir="false" afterPath="$PROJECT_DIR$/../firstyearproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github" beforeDir="false" afterPath="$PROJECT_DIR$/../github" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gruppe-a-mewie" beforeDir="false" afterPath="$PROJECT_DIR$/../gruppe-a-mewie" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../htmlDemo" beforeDir="false" afterPath="$PROJECT_DIR$/../htmlDemo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniprojekt" beforeDir="false" afterPath="$PROJECT_DIR$/../miniprojekt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.4\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="C:\Users\Bruger\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1kjPMPGbKP8jp2dCgzYhzzvV0qp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -30,5 +72,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51bf6f48-2ee6-42ce-a891-4209719e1f8f" name="Default Changelist" comment="" />
+      <created>1606210979683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606210979683</updated>
+      <workItem from="1606210981307" duration="329000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1606211232404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606211232404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="598" y="109" key="CommitChangelistDialog2" timestamp="1606211231679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606211231679" />
+    <state x="740" y="264" key="FileChooserDialogImpl" timestamp="1606211065264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606211065264" />
+    <state x="838" y="422" key="Github.ShareDialog" timestamp="1606211122061">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="422" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606211122061" />
+    <state x="755" y="219" key="Github.UntrackedFilesDialog" timestamp="1606211094983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="219" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606211094983" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1606211237230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606211237230" />
+    <state x="781" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606211135158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606211135158" />
   </component>
 </project>
