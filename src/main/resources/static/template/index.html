@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <link rel="stylesheet" href="myCSS.css">
+    <meta charset="UTF-8">
+    <title>Forside</title>
+</head>
+<th:block th:include="/includes/header :: header"></th:block>
+<body>
+
+<h2> Dette er en beige farve </h2>
+<div class="container">
+    <h3 id="header3">LOG IND</h3>
+    <form action="/logIn" method="POST">
+
+        <label for="fname">E-mail</label>
+        <input type="text" id="fname" name="username" placeholder="Indtast E-mail">
+
+        <label for="lname">Kodeord</label>
+        <input type="password" id="lname" name="password" placeholder="Indtaste kodeord">
+
+        <button type="submit" name="action" value="1">Log ind</button>
+    </form>
+</div>
+
+</body>
+<th:block th:include="/includes/footer :: footer"></th:block>
+</html>
